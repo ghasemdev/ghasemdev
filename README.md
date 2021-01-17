@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakode2020&color=blueviolet" alt="jakode2020" /> </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github-readme-stats.vercel.app">
     <img  align="center" src="https://github-readme-stats.vercel.app/api?username=jakode2020&count_private=true&show_icons=true&theme=dark" alt="stats" height="195" width="470">
   </a>
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github-readme-stats.vercel.app" >
     <img  align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jakode2020&theme=dark&layout=compact" alt="wakatime">
   </a>
