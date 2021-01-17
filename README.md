@@ -2,14 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakode2020&color=blueviolet" alt="jakode2020" /> </p>
 
-<div class="row">
-  <div class="column">
-     <img src="https://github-readme-stats.vercel.app/api?username=jakode2020&count_private=true&show_icons=true&theme=dark" alt="stats" style="width:100%"/>
-  </div>
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakode2020&layout=compact&theme=dark" alt="top langs" style="width:100%"/>
-  </div>
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jakode2020&count_private=true&show_icons=true&theme=dark" alt="stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakode2020&layout=compact&theme=dark" alt="top langs"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
