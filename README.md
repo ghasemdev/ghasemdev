@@ -13,6 +13,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakode2020&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" style="padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px" src="https://github-readme-stats.vercel.app/api/wakatime?username=jakode2020&theme=dark&layout=compact" />
+<img align="center" style="padding-left: 20px" src="https://github-readme-stats.vercel.app/api/wakatime?username=jakode2020&theme=dark&layout=compact" />
 </a>
 </p>
