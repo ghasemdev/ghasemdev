@@ -13,6 +13,6 @@
 
 <p align="center"> 
   <a href="https://github-readme-stats.vercel.app" >
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jakode2020&theme=dark&layout=compact" alt="wakatime" width="100%">
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jakode2020&theme=dark&layout=compact" alt="wakatime">
   </a>
 </p>
