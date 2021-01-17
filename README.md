@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jakode2020&count_private=true&show_icons=true&theme=dark" alt="stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jakode2020&count_private=true&show_icons=true&theme=dark" alt="stats" style="vertical-align:middle"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakode2020&layout=compact&theme=dark" alt="top langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakode2020&layout=compact&theme=dark" alt="top langs" style="vertical-align:middle"/>
   </a>
 </p>
 
