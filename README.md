@@ -4,10 +4,10 @@
 
 <p align="left">
   <a href="https://github-readme-stats.vercel.app">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=jakode2020&count_private=true&show_icons=true&theme=dark" alt="stats" height="195">
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=jakode2020&count_private=true&show_icons=true&theme=dark" alt="stats" height="195" width="470">
   </a>
   <a href="https://github-readme-stats.vercel.app">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakode2020&layout=compact&theme=dark" alt="top langs" height="195" width="400" >
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakode2020&layout=compact&theme=dark" alt="top langs" height="195" width="390" >
   </a>
 </p>
 
