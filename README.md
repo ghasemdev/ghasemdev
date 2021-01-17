@@ -11,10 +11,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img class="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jakode2020&theme=dark&layout=compact" />
 </a>
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
