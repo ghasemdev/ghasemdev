@@ -1,4 +1,4 @@
-### Welcome to my git
+### Welcome to my github
 <p>
 I am a Kotlin programmer and my field of work is Android, recently i'm work in backend with Ktor & Exposed </br>
 my favorite architecture is MVI also i interested in new technologies.
