@@ -19,7 +19,7 @@ My favorite programming language is Kotlin and I like to make Android software. 
 ![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator)&nbsp;
 
-#### ![⏱ My average coding time per week]("https://wakatime.com/@jakode2020")
+<h4> <a href="https://wakatime.com/@jakode2020">&#9201; My average coding time per week</a> </h4>
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jakode2020&theme=gotham&show_icons=true)&nbsp; 
