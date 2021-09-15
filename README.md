@@ -15,7 +15,6 @@ My favorite programming language is Kotlin and I like to make Android software. 
 ![SQL](https://img.shields.io/badge/-SQL-141a20?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=Docker)&nbsp;
-![Ubuntu linux](https://img.shields.io/badge/-Ubuntu_Linux-141a20?style=flat&logo=ubuntu)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator)&nbsp;
 
