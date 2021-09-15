@@ -1,9 +1,9 @@
-## Hello! I am Ghasem Shirdel. Android Developer and Software Engineer. <img align="right" src="https://komarev.com/ghpvc/?username=jakode2020&color=269077">
+## Hello! My name is Ghasem and I am an Android Developer. <img align="right" src="https://komarev.com/ghpvc/?username=jakode2020&color=269077">
 ### &nbsp;About Me
 I'm currently studying computer engineering 💻 </br>
-Personally, I am interested in learning more and group activities. The more extensive and complex the project, the more interesting it is for me, because it makes me learn more. I believe in myself and I do my best to do my job.</br>
+Personally, I am interested in learning more and group activities. The complex project more interesting it is for me, because it makes me learn more.
 
-My favorite programming language is Kotlin and I like to make Android software. I also like software engineering topics and I like to do things according to the law.</br>
+My favorite programming language is Kotlin and I like to make Android software. I also like software engineering topics.
 
 ### 🛠 &nbsp;Tech Stack
 ![Android](https://img.shields.io/badge/-Android-141a20?style=flat&logo=Android&logoColor=FFA518)&nbsp;
