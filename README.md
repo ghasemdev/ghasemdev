@@ -1,12 +1,12 @@
-# Hello!! 😃
+# Hi ! 😃
 My name is Ghasem and I am an Android Developer
 
 ## 📃 About Me
 
 I'm currently studying computer engineering 💻 </br>
-Personally, I am interested in learning more and group activities. The complex project more interesting it is for me, because it makes me learn more.
 
-My favorite programming language is Kotlin and I like to make Android software. I also like software engineering topics.
+My favorite programming language is Kotlin and I like to make Android software.
+Personally, I'm interested in learning more and group activities. The complex project more interesting for me, because it makes me learn more.
 
 ### ⚒️ Tech Stack
 
