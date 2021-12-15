@@ -1,4 +1,4 @@
-# Hello! My name is Ghasem and I am an Android Developer ![image alt >](https://komarev.com/ghpvc/?username=jakode2020&color=269077)
+# Hello! My name is Ghasem and I am an Android Developer
 
 ## 📃 About Me
 
@@ -22,21 +22,36 @@ My favorite programming language is Kotlin and I like to make Android software. 
 [![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown)](https://www.markdownguide.org/)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator)&nbsp;
 
-⏱️ **My [average coding]("https://wakatime.com/@ghasemdev") time per week**
+### ⚙️ GitHub Analytics <img align="right" src="https://komarev.com/ghpvc/?username=jakode2020&color=269077">
 
-### ⚙️ GitHub Analytics
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jakode2020&theme=gotham&show_icons=true)&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakode2020&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham)
+<div style="display: grid;grid-template-columns: auto auto;">
+    <div style="grid-row: 2;">
+        <a href="https://wakatime.com/@ghasemdev">
+            <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ghasemdev&theme=github_dark&border_radius=15&langs_count=5"/>
+        </a>
+    </div>
+    <div style="">
+        <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ghasemdev&theme=github_dark&border_radius=15&show_icons=true&include_all_commits=true& count_private=true&cache_seconds=10800"/>
+    </div>
+    <div style="grid-row: 1 / span 2;grid-column: 3;">
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghasemdev&theme=github_dark&border_radius=15&langs_count=8&cache_seconds=10800"/>
+    </div>
+</div>
 
 ### 📫 Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/-@ghasem_shirdel-0e3e55?style=flat&logo=Linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ghasem-shirdel-2020a6209)
-[![Telegram](https://img.shields.io/badge/-@ghasem__dev-0e3e55?style=flat&logo=Telegram&logoColor=white&color=0088cc)](https://t.me/ghasem_dev)
-[![Instagram](https://img.shields.io/badge/-@ghasem__dev-0e3e55?style=flat&logo=Instagram&logoColor=white&color=C13584)](https://www.instagram.com/ghasem_dev)
-[![Youtube](https://img.shields.io/badge/-@Ghasem_Dev-0e3e55?style=flat&logo=Youtube&logoColor=white&color=C13584)](https://www.youtube.com/channel/UCx6FnSp_YE7GAMiZhQJUmfQ)
-
-[![Linkedin >](/icons/linkedin.svg)](https://www.linkedin.com/in/ghasem-shirdel-2020a6209)
-[![Instagram](/icons/instagram.svg)](https://www.instagram.com/ghasem_dev)
-[![Youtube](/icons/youtube.svg)](https://www.youtube.com/channel/UCx6FnSp_YE7GAMiZhQJUmfQ)
-[![Telegram](/icons/telegram.svg)](https://t.me/ghasem79)
+<a href="https://www.instagram.com/ghasem_dev">
+  <img align="left" alt="Instagram" width="28px" height="32px" src="icons/instagram.svg"/>
+</a>
+<a href="https://t.me/ghasem79">
+  <img align="left" alt="Telegram" width="28px" height="32px" src="icons/telegram.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/ghasem-shirdel-2020a6209">
+  <img align="left" alt="Linkdein" width="32px" height="32px" src="icons/linkedin.svg"/>
+</a>
+<a href="https://stackoverflow.com/users/14066088/ghasem?tab=profile">
+  <img align="left" alt="Stackoverflow" width="32px" height="32px" src="icons/stack-overflow.svg"/>
+</a>
+<a href="https://www.youtube.com/channel/UCx6FnSp_YE7GAMiZhQJUmfQ">
+  <img align="left" alt="Youtube" width="32px" height="32px" src="icons/youtube.svg"/>
+</a>
