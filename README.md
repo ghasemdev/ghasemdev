@@ -27,8 +27,8 @@ My favorite programming language is Kotlin and I like to make Android software. 
 
 ### ⚙️ GitHub Analytics <img align="right" src="https://komarev.com/ghpvc/?username=jakode2020&color=269077">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ghasemdev&theme=github_dark&border_radius=12&line_height=40&show_icons=true&count_private=true&cache_seconds=10800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghasemdev&theme=github_dark&border_radius=12&langs_count=5&cache_seconds=10800)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ghasemdev&theme=github_dark&border_radius=12&line_height=33&show_icons=true&count_private=true&cache_seconds=10800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghasemdev&theme=github_dark&border_radius=12&langs_count=4&cache_seconds=10800)
 
 ### 📫 Connect with Me
 
