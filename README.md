@@ -22,21 +22,13 @@ My favorite programming language is Kotlin and I like to make Android software. 
 [![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown)](https://www.markdownguide.org/)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator)&nbsp;
 
+### ⏱️ Wakatime
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghasemdev&theme=github_dark&border_radius=12&langs_count=3)](https://wakatime.com/@ghasemdev)
+
 ### ⚙️ GitHub Analytics <img align="right" src="https://komarev.com/ghpvc/?username=jakode2020&color=269077">
 
-<div style="display: grid;grid-template-columns: auto auto;">
-    <div style="grid-row: 2;">
-        <a href="https://wakatime.com/@ghasemdev">
-            <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ghasemdev&theme=github_dark&border_radius=15&langs_count=5"/>
-        </a>
-    </div>
-    <div style="">
-        <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ghasemdev&theme=github_dark&border_radius=15&show_icons=true&include_all_commits=true& count_private=true&cache_seconds=10800"/>
-    </div>
-    <div style="grid-row: 1 / span 2;grid-column: 3;">
-        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghasemdev&theme=github_dark&border_radius=15&langs_count=8&cache_seconds=10800"/>
-    </div>
-</div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ghasemdev&theme=github_dark&border_radius=12&line_height=40&show_icons=true&count_private=true&cache_seconds=10800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghasemdev&theme=github_dark&border_radius=12&langs_count=5&cache_seconds=10800)
 
 ### 📫 Connect with Me
 
