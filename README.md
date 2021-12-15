@@ -26,6 +26,7 @@ My favorite programming language is Kotlin and I like to make Android software. 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakode2020&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham)
 
 ### 📫 &nbsp;Connect with Me
-[![linkedin](https://img.shields.io/badge/-@ghasem_shirdel-0e3e55?style=flat&logo=Linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ghasem-shirdel-2020a6209/)
-[![telegram](https://img.shields.io/badge/-@ghasem__dev-0e3e55?style=flat&logo=Telegram&logoColor=white&color=0088cc)](https://t.me/ghasem_dev)
-[![instageram](https://img.shields.io/badge/-@ghasem__dev-0e3e55?style=flat&logo=Instagram&logoColor=white&color=C13584)](https://www.instagram.com/ghasem_dev/)
+[![Linkedin](https://img.shields.io/badge/-@ghasem_shirdel-0e3e55?style=flat&logo=Linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ghasem-shirdel-2020a6209)
+[![Telegram](https://img.shields.io/badge/-@ghasem__dev-0e3e55?style=flat&logo=Telegram&logoColor=white&color=0088cc)](https://t.me/ghasem_dev)
+[![Instagram](https://img.shields.io/badge/-@ghasem__dev-0e3e55?style=flat&logo=Instagram&logoColor=white&color=C13584)](https://www.instagram.com/ghasem_dev)
+[![Youtube](https://img.shields.io/badge/-@Ghasem_Dev-0e3e55?style=flat&logo=Youtube&logoColor=white&color=C13584)](https://www.youtube.com/channel/UCx6FnSp_YE7GAMiZhQJUmfQ)
