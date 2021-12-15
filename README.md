@@ -1,11 +1,14 @@
-## Hello! My name is Ghasem and I am an Android Developer. <img align="right" src="https://komarev.com/ghpvc/?username=jakode2020&color=269077">
-### &nbsp;About Me
+# Hello! My name is Ghasem and I am an Android Developer ![image alt >](https://komarev.com/ghpvc/?username=jakode2020&color=269077)
+
+## 📃 About Me
+
 I'm currently studying computer engineering 💻 </br>
 Personally, I am interested in learning more and group activities. The complex project more interesting it is for me, because it makes me learn more.
 
 My favorite programming language is Kotlin and I like to make Android software. I also like software engineering topics.
 
-### 🛠 &nbsp;Tech Stack
+### ⚒️ Tech Stack
+
 [![Android](https://img.shields.io/badge/-Android-141a20?style=flat&logo=Android)](https://developer.android.com/)&nbsp;
 [![Kotlin](https://img.shields.io/badge/-Kotlin-141a20?style=flat&logo=Kotlin)](https://kotlinlang.org/)&nbsp;
 [![Dart](https://img.shields.io/badge/-Dart-141a20?style=flat&logo=Dart&logoColor=2cb7f6)](https://dart.dev/)&nbsp;
@@ -19,14 +22,21 @@ My favorite programming language is Kotlin and I like to make Android software. 
 [![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown)](https://www.markdownguide.org/)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator)&nbsp;
 
-<h4> <a href="https://wakatime.com/@jakode2020">&#9201; My average coding time per week</a> </h4>
+⏱️ **My [average coding]("https://wakatime.com/@ghasemdev") time per week**
 
-### ⚙️ &nbsp;GitHub Analytics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jakode2020&theme=gotham&show_icons=true)&nbsp; 
+### ⚙️ GitHub Analytics
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jakode2020&theme=gotham&show_icons=true)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakode2020&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham)
 
-### 📫 &nbsp;Connect with Me
+### 📫 Connect with Me
+
 [![Linkedin](https://img.shields.io/badge/-@ghasem_shirdel-0e3e55?style=flat&logo=Linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ghasem-shirdel-2020a6209)
 [![Telegram](https://img.shields.io/badge/-@ghasem__dev-0e3e55?style=flat&logo=Telegram&logoColor=white&color=0088cc)](https://t.me/ghasem_dev)
 [![Instagram](https://img.shields.io/badge/-@ghasem__dev-0e3e55?style=flat&logo=Instagram&logoColor=white&color=C13584)](https://www.instagram.com/ghasem_dev)
 [![Youtube](https://img.shields.io/badge/-@Ghasem_Dev-0e3e55?style=flat&logo=Youtube&logoColor=white&color=C13584)](https://www.youtube.com/channel/UCx6FnSp_YE7GAMiZhQJUmfQ)
+
+[![Linkedin >](/icons/linkedin.svg)](https://www.linkedin.com/in/ghasem-shirdel-2020a6209)
+[![Instagram](/icons/instagram.svg)](https://www.instagram.com/ghasem_dev)
+[![Youtube](/icons/youtube.svg)](https://www.youtube.com/channel/UCx6FnSp_YE7GAMiZhQJUmfQ)
+[![Telegram](/icons/telegram.svg)](https://t.me/ghasem79)
