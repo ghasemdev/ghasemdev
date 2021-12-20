@@ -40,7 +40,7 @@ Personally, I'm interested in learning more and group activities. The complex pr
 <a href="https://t.me/ghasem79">
   <img align="left" alt="Telegram" width="28px" height="32px" src="icons/telegram.svg"/>
 </a>
-<a href="https://www.linkedin.com/in/ghasem-shirdel-2020a6209">
+<a href="https://www.linkedin.com/in/ghasemdev">
   <img align="left" alt="Linkdein" width="32px" height="32px" src="icons/linkedin.svg"/>
 </a>
 <a href="https://stackoverflow.com/users/14066088/ghasem?tab=profile">
