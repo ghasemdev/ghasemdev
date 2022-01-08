@@ -29,8 +29,8 @@ Personally, I'm interested in learning more and group activities. The complex pr
 
 ### ⚙️ GitHub Analytics
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ghasemdev&theme=github_dark&border_radius=12&line_height=33&show_icons=true&count_private=true&cache_seconds=10800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghasemdev&theme=github_dark&border_radius=12&langs_count=4&cache_seconds=10800)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ghasemdev&theme=github_dark&border_radius=12&line_height=33&show_icons=true&count_private=true&cache_seconds=10800&include_all_commits=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghasemdev&theme=github_dark&border_radius=12&langs_count=4&cache_seconds=10800&exclude_repo=anime-recommendation-system,Subtitle)
 
 ### 📫 Connect with Me
 
