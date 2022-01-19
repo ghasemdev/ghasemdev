@@ -1,4 +1,4 @@
-![Header](icons/header.jpg)
+![Header](https://media-exp1.licdn.com/dms/image/C4E16AQEhIbWAbEMkGw/profile-displaybackgroundimage-shrink_350_1400/0/1642578257453?e=1648080000&v=beta&t=N-a5MvYMMr1D80zVGSig8nd3OkvnoPe25P9Pz4FC2X8)
 
 # Hi! 😃
 
