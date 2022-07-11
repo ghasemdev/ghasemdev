@@ -2,14 +2,15 @@
 
 # Hi! 😃
 
-My name is Ghasem and I am an Android Developer.
+My name is Ghasem, a Native Android Developer with Kotlin.
 
 ## 📃 About Me
 
-I'm currently studying computer engineering 💻 </br>
+My experience as an Android developer spans more than three years, and I started programming in my second year of university. I have worked as a freelancer with startups in Mashhad and Bojnord on a part-time basis. For me, learning more and group activities are more challenging. I enjoy complex projects because they provide me with lots of learning opportunities.
 
-My favorite programming language is Kotlin and I like to make Android software.
-Personally, I'm interested in learning more and group activities. The complex project more interesting for me, because it makes me learn more.
+Additionally, I graduated from Bojnurd University with a Bachelor's degree in computer engineering and have experience meeting hardworking people, becoming to TA in advanced programming lectures, and creating a failed startup.  
+
+My weekend schedule consists of spending time with family and friends. Occasionally, I paint and listen to music. When I'm not coding, I like to watch comic books and anime shows or read novels book.
 
 ### ⚒️ Tech Stack
 
