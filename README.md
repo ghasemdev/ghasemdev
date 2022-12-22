@@ -36,15 +36,9 @@ My weekend schedule consists of spending time with family and friends. Occasiona
 
 ### 📫 Connect with Me
 
-<a href="https://www.instagram.com/ghasem_dev">
-  <img align="left" alt="Instagram" width="28px" height="32px" src="icons/instagram.svg"/>
-</a>
 <a href="https://www.linkedin.com/in/ghasemdev">
   <img align="left" alt="Linkdein" width="32px" height="32px" src="icons/linkedin.svg"/>
 </a>
 <a href="https://stackoverflow.com/users/14066088/ghasem?tab=profile">
   <img align="left" alt="Stackoverflow" width="32px" height="32px" src="icons/stack-overflow.svg"/>
-</a>
-<a href="https://www.youtube.com/channel/UCx6FnSp_YE7GAMiZhQJUmfQ">
-  <img align="left" alt="Youtube" width="32px" height="32px" src="icons/youtube.svg"/>
 </a>
