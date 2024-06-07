@@ -1,6 +1,6 @@
 ![Header](logo/header.jpg)
 
-# Hi! I'm Ghasem 😃.
+# Hi! I'm Ghasem 👋.
 
 ## 📃 About Me
 
@@ -31,9 +31,6 @@ My weekend schedule consists of spending time with family and friends. Occasiona
 [![Mermaid](https://img.shields.io/badge/-Mermaid-141a20?style=flat&logo=mermaid)](https://mermaid.js.org/)&nbsp;
 [![YAML](https://img.shields.io/badge/-YAML-141a20?style=flat&logo=yaml&logoColor=CB171E)](https://en.wikipedia.org/wiki/YAML)&nbsp;
 [![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown)](https://www.markdownguide.org/)&nbsp;
-
-### ⏱️ Wakatime
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghasemdev&theme=github_dark&border_radius=12&langs_count=3)](https://wakatime.com/@ghasemdev)
 
 ### ⚙️ GitHub Analytics
 
