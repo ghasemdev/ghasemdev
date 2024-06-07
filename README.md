@@ -30,6 +30,7 @@ My weekend schedule consists of spending time with family and friends. Occasiona
 [![Gradle](https://img.shields.io/badge/-Gradle-141a20?style=flat&logo=gradle&logoColor=2cb7f6)](https://gradle.org/)&nbsp;
 [![Mermaid](https://img.shields.io/badge/-Mermaid-141a20?style=flat&logo=mermaid)](https://mermaid.js.org/)&nbsp;
 [![YAML](https://img.shields.io/badge/-YAML-141a20?style=flat&logo=yaml)](https://en.wikipedia.org/wiki/YAML)&nbsp;
+[![C++](https://img.shields.io/badge/-C++-141a20?style=flat&logo=cplusplus)](https://en.wikipedia.org/wiki/C%2B%2B)&nbsp;
 
 ### ⏱️ Wakatime
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghasemdev&theme=github_dark&border_radius=12&langs_count=3)](https://wakatime.com/@ghasemdev)
