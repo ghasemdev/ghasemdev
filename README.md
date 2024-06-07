@@ -18,16 +18,18 @@ My weekend schedule consists of spending time with family and friends. Occasiona
 [![Kotlin](https://img.shields.io/badge/-Kotlin-141a20?style=flat&logo=Kotlin)](https://kotlinlang.org/)&nbsp;
 [![Dart](https://img.shields.io/badge/-Dart-141a20?style=flat&logo=Dart&logoColor=2cb7f6)](https://dart.dev/)&nbsp;
 [![Ktor](https://img.shields.io/badge/-Ktor-141a20?style=flat&logo=ktor)](https://ktor.io/)&nbsp;
-
 [![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=java)](https://www.oracle.com/java/)&nbsp;
 [![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)](https://www.python.org/)&nbsp;
 [![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)](https://git-scm.com/)&nbsp;
 [![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=Docker)](https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=nemea&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3cYl0Uk_GDl7x1W-UWgmtVpG24i2nbe4nBb_WPqGNyIEwX0jk5FrM0aAicUEALw_wcB)&nbsp;
 [![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown)](https://www.markdownguide.org/)&nbsp;
 [![Compose Multiplatform](https://img.shields.io/badge/-Compose_Multiplatform-141a20?style=flat&logo=jetpackcompose)]([https://www.markdownguide.org/](https://www.jetbrains.com/lp/compose-multiplatform/))&nbsp;
-[![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite)](https://sqlite.org/)&nbsp;
+[![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite&logoColor=2cb7f6)](https://sqlite.org/)&nbsp;
 [![Bash](https://img.shields.io/badge/-Bash-141a20?style=flat&logo=gnubash)](https://www.ba-sh.com/)&nbsp;
 [![Gitlab CI/CD](https://img.shields.io/badge/-Gitlab_CI/CD-141a20?style=flat&logo=gitlab)](https://about.gitlab.com/)&nbsp;
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-141a20?style=flat&logo=ubuntu)](https://ubuntu.com/)&nbsp;
+[![Gradle](https://img.shields.io/badge/-Gradle-141a20?style=flat&logo=gradle&logoColor=2cb7f6)](https://gradle.org/)&nbsp;
+[![Mermaid](https://img.shields.io/badge/-Mermaid-141a20?style=flat&logo=mermaid)](https://mermaid.js.org/)&nbsp;
 
 ### ⏱️ Wakatime
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghasemdev&theme=github_dark&border_radius=12&langs_count=3)](https://wakatime.com/@ghasemdev)
