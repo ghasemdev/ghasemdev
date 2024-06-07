@@ -1,6 +1,6 @@
 ![Header](logo/header.jpg)
 
-# Hi! I'm Ghasem 👋.
+# Hi 👋, I'm Ghasem
 
 ## 📃 About Me
 
