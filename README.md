@@ -15,22 +15,24 @@ My weekend schedule consists of spending time with family and friends. Occasiona
 ### ⚒️ Tech Stack
 
 [![Android](https://img.shields.io/badge/-Android-141a20?style=flat&logo=Android)](https://developer.android.com/)&nbsp;
-[![Kotlin](https://img.shields.io/badge/-Kotlin-141a20?style=flat&logo=Kotlin)](https://kotlinlang.org/)&nbsp;
-[![Dart](https://img.shields.io/badge/-Dart-141a20?style=flat&logo=Dart&logoColor=2cb7f6)](https://dart.dev/)&nbsp;
-[![Ktor](https://img.shields.io/badge/-Ktor-141a20?style=flat&logo=ktor)](https://ktor.io/)&nbsp;
-[![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)](https://www.python.org/)&nbsp;
-[![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)](https://git-scm.com/)&nbsp;
-[![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=Docker)](https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=nemea&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3cYl0Uk_GDl7x1W-UWgmtVpG24i2nbe4nBb_WPqGNyIEwX0jk5FrM0aAicUEALw_wcB)&nbsp;
-[![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown)](https://www.markdownguide.org/)&nbsp;
 [![Compose Multiplatform](https://img.shields.io/badge/-Compose_Multiplatform-141a20?style=flat&logo=jetpackcompose)]([https://www.markdownguide.org/](https://www.jetbrains.com/lp/compose-multiplatform/))&nbsp;
-[![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite&logoColor=2cb7f6)](https://sqlite.org/)&nbsp;
+[![Ktor](https://img.shields.io/badge/-Ktor-141a20?style=flat&logo=ktor)](https://ktor.io/)&nbsp;
+
+[![Kotlin](https://img.shields.io/badge/-Kotlin-141a20?style=flat&logo=Kotlin)](https://kotlinlang.org/)&nbsp;
+[![Dart](https://img.shields.io/badge/-Dart-141a20?style=flat&logo=Dart&logoColor=0175C2)](https://dart.dev/)&nbsp;
+[![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)](https://www.python.org/)&nbsp;
+[![C++](https://img.shields.io/badge/-C++-141a20?style=flat&logo=cplusplus&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)&nbsp;
+[![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite&logoColor=003B57)](https://sqlite.org/)&nbsp;
 [![Bash](https://img.shields.io/badge/-Bash-141a20?style=flat&logo=gnubash)](https://www.ba-sh.com/)&nbsp;
+
 [![Gitlab CI/CD](https://img.shields.io/badge/-Gitlab_CI/CD-141a20?style=flat&logo=gitlab)](https://about.gitlab.com/)&nbsp;
+[![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)](https://git-scm.com/)&nbsp;
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-141a20?style=flat&logo=ubuntu)](https://ubuntu.com/)&nbsp;
-[![Gradle](https://img.shields.io/badge/-Gradle-141a20?style=flat&logo=gradle&logoColor=2cb7f6)](https://gradle.org/)&nbsp;
+[![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=Docker)](https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=nemea&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3cYl0Uk_GDl7x1W-UWgmtVpG24i2nbe4nBb_WPqGNyIEwX0jk5FrM0aAicUEALw_wcB)&nbsp;
+
 [![Mermaid](https://img.shields.io/badge/-Mermaid-141a20?style=flat&logo=mermaid)](https://mermaid.js.org/)&nbsp;
-[![YAML](https://img.shields.io/badge/-YAML-141a20?style=flat&logo=yaml)](https://en.wikipedia.org/wiki/YAML)&nbsp;
-[![C++](https://img.shields.io/badge/-C++-141a20?style=flat&logo=cplusplus)](https://en.wikipedia.org/wiki/C%2B%2B)&nbsp;
+[![YAML](https://img.shields.io/badge/-YAML-141a20?style=flat&logo=yaml&logoColor=CB171E)](https://en.wikipedia.org/wiki/YAML)&nbsp;
+[![Markdown](https://img.shields.io/badge/-Markdown-141a20?style=flat&logo=markdown&logoColor=000000)](https://www.markdownguide.org/)&nbsp;
 
 ### ⏱️ Wakatime
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghasemdev&theme=github_dark&border_radius=12&langs_count=3)](https://wakatime.com/@ghasemdev)
