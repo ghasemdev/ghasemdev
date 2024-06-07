@@ -6,7 +6,7 @@
 
 I studied Computer Engineering and began programming in my second year of university (2019). While studying, I also started working at startups and small companies. I have a passion for learning and enjoy participating in group activities. Complex projects excite me because they offer opportunities to learn new things.
 
-Currently, I am working on financial projects, focusing on implementing cryptographic concepts, digital signatures, and mobile application security using Kotlin Multiplatform.
+Currently, I am working on financial projects, focusing on implementing **cryptographic** concepts, **digital signatures**, and **mobile application security** using **Kotlin Multiplatform**.
 
 On weekends, I like to spend time with my family and friends. I also enjoy watching anime, and reading manga and novels.
 
