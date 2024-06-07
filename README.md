@@ -1,4 +1,4 @@
-![Header](icons/header.jpg)
+![Header](logo/header.jpg)
 
 # Hi! 😃
 
@@ -37,14 +37,14 @@ My weekend schedule consists of spending time with family and friends. Occasiona
 
 ### ⚙️ GitHub Analytics
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ghasemdev&theme=github_dark&border_radius=12&line_height=33&show_icons=true&count_private=true&cache_seconds=10800&include_all_commits=false)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ghasemdev&theme=github_dark&border_radius=12&line_height=33&show_loog=true&count_private=true&cache_seconds=10800&include_all_commits=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghasemdev&theme=github_dark&border_radius=12&langs_count=4&cache_seconds=10800&exclude_repo=anime-recommendation-system,Subtitle)
 
 ### 📫 Connect with Me
 
 <a href="https://www.linkedin.com/in/ghasemdev">
-  <img align="left" alt="Linkdein" width="32px" height="32px" src="icons/linkedin.svg"/>
+  <img align="left" alt="Linkdein" width="32px" height="32px" src="loog/linkedin.svg"/>
 </a>
 <a href="https://stackoverflow.com/users/14066088/ghasem?tab=profile">
-  <img align="left" alt="Stackoverflow" width="32px" height="32px" src="icons/stack-overflow.svg"/>
+  <img align="left" alt="Stackoverflow" width="32px" height="32px" src="loog/stack-overflow.svg"/>
 </a>
