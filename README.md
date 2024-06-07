@@ -18,7 +18,6 @@ My weekend schedule consists of spending time with family and friends. Occasiona
 [![Kotlin](https://img.shields.io/badge/-Kotlin-141a20?style=flat&logo=Kotlin)](https://kotlinlang.org/)&nbsp;
 [![Dart](https://img.shields.io/badge/-Dart-141a20?style=flat&logo=Dart&logoColor=2cb7f6)](https://dart.dev/)&nbsp;
 [![Ktor](https://img.shields.io/badge/-Ktor-141a20?style=flat&logo=ktor)](https://ktor.io/)&nbsp;
-[![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java.svg)](https://www.oracle.com/java/)&nbsp;
 [![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)](https://www.python.org/)&nbsp;
 [![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)](https://git-scm.com/)&nbsp;
 [![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=Docker)](https://www.docker.com/?utm_source=google&utm_medium=cpc&utm_campaign=dockerhomepage&utm_content=nemea&utm_term=dockerhomepage&utm_budget=growth&gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3cYl0Uk_GDl7x1W-UWgmtVpG24i2nbe4nBb_WPqGNyIEwX0jk5FrM0aAicUEALw_wcB)&nbsp;
