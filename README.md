@@ -4,11 +4,11 @@
 
 ## 📃 About Me
 
-My experience as an Android developer spans more than three years, and I started programming in my second year of university. I have worked as a freelancer with startups in Mashhad and Bojnord on a part-time basis. For me, learning more and group activities are more challenging. I enjoy complex projects because they provide me with lots of learning opportunities.
+I studied Computer Engineering and began programming in my second year of university (2019). While studying, I also started working at startups and small companies. I have a passion for learning and enjoy participating in group activities. Complex projects excite me because they offer opportunities to learn new things.
 
-Additionally, I graduated from Bojnurd University with a Bachelor's degree in computer engineering and have experience meeting hardworking people, becoming to TA in advanced programming lectures, and creating a startup.  
+Currently, I am working on financial projects, focusing on implementing cryptographic concepts, digital signatures, and mobile application security using Kotlin Multiplatform.
 
-My weekend schedule consists of spending time with family and friends. Occasionally, I paint and listen to music. When I'm not coding, I like to watch comic books and anime shows or read novels book.
+On weekends, I like to spend time with my family and friends. I also enjoy watching anime, and reading manga and novels.
 
 ### ⚒️ Tech Stack
 
